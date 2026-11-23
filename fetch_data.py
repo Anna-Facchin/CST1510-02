@@ -30,7 +30,8 @@ def get_data(url, params):
     """Ask the API for data. Returns the JSON reply, or None if something went wrong."""
     try:
         response = requests.get(url, params=params, timeout=15)
-        response.raise_for_status()          # turns 404, 500 ... into an error
+        print(response.status_code) # 200 means ok
+        response.raise_for_status()          # raise an error if the request failed
         return response.json()
     except requests.RequestException as error:
         print("Could not get the data:", error)

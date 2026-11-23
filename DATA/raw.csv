@@ -1,12 +1,45 @@
 time,place,mag,mag_type,significance,tsunami
-1794752996330,"3 km N of Capulin, New Mexico",3.0,ml,138,0
+1794813254483,"68 km S of Sarangani, Philippines",5.0,mb,385,0
+1794812889864,"297 km SSE of Amahai, Indonesia",4.3,mb,284,0
+1794811654187,"124 km NE of Quiaca, Peru",4.3,mb,284,0
+1794810765483,"20 km NNW of Lime Village, Alaska",2.7,ml,112,0
+1794806198125,"45 km E of Denali National Park, Alaska",2.5,ml,96,0
+1794803612584,"11 km NNE of Susitna North, Alaska",2.5,ml,96,0
+1794803051718,"20 km NW of Anamizu, Japan",5.4,mww,449,0
+1794799445930,"15 km NE of Pāhala, Hawaii",2.52,ml,98,0
+1794798496143,"12 km E of Pearsall, Texas",2.6,mb_lg,104,0
+1794798386067,"271 km SE of Chiniak, Alaska",3.6,ml,199,0
+1794791340831,"2 km SW of Santa María Huazolotitlán, Mexico",4.4,mb,298,0
+1794787595587,"16 km WSW of Susitna, Alaska",2.7,ml,112,0
+1794783861749,"72 km WNW of Abra Pampa, Argentina",4.4,mb,298,0
+1794782299154,"141 km ESE of Petropavlovsk-Kamchatsky, Russia",4.8,mb,354,0
+1794779328120,"7 km S of Knik, Alaska",2.7,ml,112,0
+1794778641082,"44 km S of Jurm, Afghanistan",4.9,mww,369,0
+1794776429551,"87 km SSE of Ugashik, Alaska",2.5,ml,96,0
+1794775916298,"256 km SSE of Ambon, Indonesia",5.0,mb,385,0
+1794773334808,"43 km SSE of King Salmon, Alaska",2.6,ml,104,0
+1794772686017,"19 km ESE of Silver Springs, Nevada",2.89,ml,129,0
+1794772058312,"18 km NW of Old Harbor, Alaska",2.5,ml,96,0
+1794771519971,"102 km ESE of Sarangani, Philippines",4.4,mb,298,0
+1794768741570,"26 km E of Estique, Peru",4.2,mb,271,0
+1794767132230,"155 km SE of Chignik, Alaska",2.6,ml,104,0
+1794764916959,"74 km N of Pārūn, Afghanistan",5.0,mww,385,0
+1794762829968,"20 km ENE of Susitna North, Alaska",3.5,ml,190,0
+1794758774983,"273 km W of Tual, Indonesia",4.2,mb,271,0
+1794757964490,"114 km NNE of Punta Cana, Dominican Republic",3.4,md,178,0
+1794757274978,"169 km NW of Gorontalo, Indonesia",5.1,mb,400,0
+1794756349835,"10 km WSW of Manley Hot Springs, Alaska",2.5,ml,96,0
+1794753123788,"27 km SW of Minbu, Burma (Myanmar)",4.4,mb,298,0
+1794752996330,"3 km N of Capulin, New Mexico",3.0,ml,140,0
 1794752430226,"60 km SE of Cantwell, Alaska",2.6,ml,104,0
-1794750095701,"9 km E of Union, Philippines",5.5,mb,471,0
-1794749076321,"72 km NNW of Chalkyitsik, Alaska",3.3,ml,168,0
+1794752272535,"27 km ESE of Union, Philippines",4.6,mb,326,0
+1794750095701,"9 km E of Union, Philippines",5.5,mb,472,0
+1794749076555,"69 km NNW of Chalkyitsik, Alaska",3.4,ml,178,0
 1794748598863,"18 km ESE of Silver Springs, Nevada",2.5,ml,96,0
 1794747098361,"131 km E of Chignik, Alaska",2.6,ml,104,0
-1794742148070,"6 km E of Calumet, Oklahoma",3.06,ml,145,0
+1794742148070,"6 km E of Calumet, Oklahoma",3.06,ml,146,0
 1794741836246,"41 km SSW of La Tirana, Chile",4.1,mwr,262,0
+1794738551748,"55 km W of Valparaíso, Chile",4.1,mwr,259,0
 1794734690714,"22 km ESE of Ruteng, Indonesia",4.4,mb,298,0
 1794734327165,"56 km E of Pedro Bay, Alaska",2.7,ml,112,0
 1794732606639,south of the Fiji Islands,4.4,mb,298,0
@@ -15,7 +48,7 @@ time,place,mag,mag_type,significance,tsunami
 1794728197211,"92 km NW of Houma, Tonga",4.7,mb,340,0
 1794726077140,"96 km N of Charlotte Amalie, U.S. Virgin Islands",3.65,md,205,0
 1794722053361,"61 km N of Petersville, Alaska",2.5,ml,96,0
-1794719740008,"11 km E of Chenega, Alaska",3.9,ml,241,0
+1794719740008,"11 km E of Chenega, Alaska",3.9,ml,242,0
 1794719702697,Fiji region,5.5,mww,465,0
 1794717508360,"75 km SSE of San Pedro de Atacama, Chile",4.3,mb,284,0
 1794717134160,"6 km E of Calumet, Oklahoma",3.44,ml,196,0
@@ -24,9 +57,9 @@ time,place,mag,mag_type,significance,tsunami
 1794714829679,"75 km W of Ollagüe, Chile",4.3,mb,284,0
 1794711764244,"Rat Islands, Aleutian Islands, Alaska",4.2,mb,271,0
 1794711702502,"8 km WSW of Corredor, Costa Rica",4.3,mb,285,0
-1794709479785,"35 km SE of Malaga, New Mexico",3.2,ml,158,0
+1794709479644,"34 km SE of Malaga, New Mexico",3.0,ml,138,0
 1794709041755,"Off the coast of Aisen, Chile",4.3,mb,284,0
-1794706803330,"11 km SE of Huntsville, Utah",3.42,ml,300,0
+1794706803330,"11 km SE of Huntsville, Utah",3.42,ml,325,0
 1794705989010,"89 km NE of Punta Cana, Dominican Republic",3.09,md,147,0
 1794698523473,"106 km WSW of Pistol River, Oregon",3.4,ml,178,0
 1794695026411,east central Pacific Ocean,4.7,mb,340,0
@@ -40,21 +73,20 @@ time,place,mag,mag_type,significance,tsunami
 1794674179635,"62 km WNW of San Antonio de los Cobres, Argentina",4.6,mb,326,0
 1794672908450,"20 km W of Pole Ojea, Puerto Rico",2.54,md,99,0
 1794672262205,"7 km SE of Tagbina, Philippines",4.9,mb,369,0
-1794670485400,"8 km W of Holtville, CA",2.73,ml,115,0
-1794670414210,"8 km W of Holtville, CA",3.19,ml,157,0
+1794670485270,"8 km W of Holtville, CA",2.74,ml,116,0
+1794670414140,"8 km W of Holtville, CA",2.86,ml,127,0
 1794662758258,"103 km SSW of Nikolski, Alaska",3.9,ml,234,0
 1794662240799,south of the Kermadec Islands,4.9,mb,369,0
 1794659280653,"137 km SE of Petropavlovsk-Kamchatsky, Russia",4.5,mb,312,0
 1794658126140,"22 km ESE of Naalehu, Hawaii",2.66,ml,109,0
-1794654857440,"8 km W of Holtville, CA",2.66,ml,109,0
-1794654838480,"7 km W of Holtville, CA",3.0,ml,139,0
-1794654815960,"8 km W of Holtville, CA",2.65,ml,108,0
-1794654775140,"8 km W of Holtville, CA",3.26,ml,165,0
-1794654567970,"8 km W of Holtville, CA",3.09,ml,148,0
-1794654321660,"7 km W of Holtville, CA",3.01,ml,140,0
+1794654838380,"7 km W of Holtville, CA",2.95,ml,134,0
+1794654815870,"8 km W of Holtville, CA",2.55,ml,100,0
+1794654775090,"7 km W of Holtville, CA",2.97,ml,136,0
+1794654567950,"8 km W of Holtville, CA",3.01,ml,141,0
+1794654321700,"8 km W of Holtville, CA",2.65,ml,109,0
 1794648373073,northern Mid-Atlantic Ridge,5.5,mww,465,0
 1794647296380,"29 km N of Hatillo, Puerto Rico",2.73,md,115,0
-1794645007400,"14 km WSW of Conconully, Washington",3.42,ml,211,0
+1794645007520,"15 km WSW of Conconully, Washington",3.42,ml,212,0
 1794641951520,"113 km N of San Antonio, Puerto Rico",3.55,md,194,0
 1794641099364,"southeast of Shikoku, Japan",4.1,mb,259,0
 1794640879785,"37 km SW of Chenega, Alaska",2.7,ml,112,0
@@ -70,8 +102,8 @@ time,place,mag,mag_type,significance,tsunami
 1794626306652,"54 km NW of San Antonio de los Cobres, Argentina",4.7,mb,340,0
 1794625169180,off the west coast of northern Sumatra,5.2,mb,416,0
 1794622867393,Fiji region,4.5,mb,312,0
-1794618051839,"17 km ENE of Tilden, Texas",2.6,ml,104,0
-1794615960323,"58 km S of Whites City, New Mexico",2.7,ml,112,0
+1794618051796,"17 km ENE of Tilden, Texas",2.7,ml,112,0
+1794615960006,"58 km S of Whites City, New Mexico",2.9,ml,129,0
 1794614303875,"22 km NE of Kinablangan, Philippines",4.5,mb,312,0
 1794614115232,"100 km WSW of Lebu, Chile",4.6,mb,326,0
 1794612638320,"153 km NW of Kavieng, Papua New Guinea",5.1,mb,400,0
@@ -321,13 +353,13 @@ time,place,mag,mag_type,significance,tsunami
 1794160180513,"149 km SSW of Atka, Alaska",2.6,ml,104,0
 1794156312938,"117 km NE of Tobelo, Indonesia",4.6,mb,326,0
 1794155604915,central Mid-Atlantic Ridge,4.8,mb,354,0
-1794151028530,"105 km SSE of King Cove, Alaska",2.7,ml,112,0
+1794151029404,"99 km SSE of King Cove, Alaska",2.7,ml,112,0
 1794149546630,"88 km NE of Cruz Bay, U.S. Virgin Islands",3.42,md,180,0
 1794149163379,"27 km NNW of Cooper Landing, Alaska",3.5,ml,192,0
-1794146258391,"111 km ESE of Akutan, Alaska",2.5,ml,96,0
+1794146258345,"114 km ESE of Akutan, Alaska",2.5,ml,96,0
 1794146117032,"21 km W of Preston, Nevada",3.54,ml,193,0
-1794143742657,"30 km S of Nikolski, Alaska",2.8,ml,121,0
-1794143201891,"142 km SSE of False Pass, Alaska",2.8,ml,121,0
+1794143742353,"18 km SSW of Nikolski, Alaska",2.9,ml,129,0
+1794143202280,"138 km SSE of False Pass, Alaska",2.7,ml,112,0
 1794141474964,"47 km SSW of Adak, Alaska",2.7,ml,112,0
 1794141442680,"126 km NNW of Charlotte Amalie, U.S. Virgin Islands",3.37,md,175,0
 1794140963086,"58 km SSW of Adak, Alaska",2.9,ml,129,0
@@ -425,12 +457,12 @@ time,place,mag,mag_type,significance,tsunami
 1793990296594,"128 km SSW of False Pass, Alaska",3.3,ml,168,0
 1793988304843,"94 km S of Sand Point, Alaska",3.1,ml,148,0
 1793987605873,"263 km E of Levuka, Fiji",4.3,mb,284,0
-1793983535828,southern East Pacific Rise,4.6,mb,326,0
-1793978818080,"101 km SSE of Palekastro, Greece",4.5,mb,312,0
+1793983535606,southern East Pacific Rise,4.4,mb,298,0
+1793978817295,"110 km SE of Ierápetra, Greece",4.5,mb,312,0
 1793978237021,"6 km NW of Big Lake, Alaska",2.8,ml,121,0
 1793975058430,"123 km SSE of False Pass, Alaska",2.8,ml,121,0
 1793974472811,"140 km SSE of False Pass, Alaska",2.7,ml,112,0
-1793973176729,"Bonin Islands, Japan region",4.2,mb,271,0
+1793973175780,"Bonin Islands, Japan region",4.2,mb,271,0
 1793963379601,"58 km S of Whites City, New Mexico",2.5,ml,96,0
 1793962781730,"62 km NNE of Luquillo, Puerto Rico",3.15,md,153,0
 1793962565128,"144 km SSE of False Pass, Alaska",3.1,ml,148,0
@@ -467,35 +499,3 @@ time,place,mag,mag_type,significance,tsunami
 1793928904619,"145 km SSE of False Pass, Alaska",2.8,ml,121,0
 1793928899926,"97 km S of Sand Point, Alaska",2.7,ml,112,0
 1793927918349,"139 km SSE of False Pass, Alaska",3.3,ml,168,0
-1793927738650,"131 km SSE of False Pass, Alaska",2.8,ml,121,0
-1793926661990,"77 km W of Akhiok, Alaska",2.5,ml,96,0
-1793926425482,"138 km SSE of False Pass, Alaska",3.2,ml,158,0
-1793925460810,"76 km ENE of Donggang, Taiwan",4.2,mb,271,0
-1793924667414,"49 km S of Nikolski, Alaska",2.5,ml,96,0
-1793924448315,"99 km SE of False Pass, Alaska",2.5,ml,96,0
-1793923345016,"96 km NNW of Lae, Papua New Guinea",4.6,mb,326,0
-1793921365341,"138 km SSE of False Pass, Alaska",3.6,ml,199,0
-1793920428383,"144 km SSE of False Pass, Alaska",2.9,ml,129,0
-1793920337289,"145 km SSE of False Pass, Alaska",3.0,ml,138,0
-1793920173360,"13 km S of Santa Isabel, Puerto Rico",2.95,md,134,0
-1793920132899,"147 km SSE of False Pass, Alaska",2.9,ml,129,0
-1793920081588,"148 km SSE of False Pass, Alaska",3.0,ml,138,0
-1793919897395,"147 km SSE of False Pass, Alaska",4.6,mb,326,0
-1793918088173,south of the Fiji Islands,4.6,mb,326,0
-1793918038490,"78 km N of Chickaloon, Alaska",2.8,ml,121,0
-1793911833378,"32 km SE of Skwentna, Alaska",2.5,ml,96,0
-1793910715241,"91 km SE of Akutan, Alaska",2.5,ml,96,0
-1793910579764,"88 km SSE of Akutan, Alaska",2.6,ml,104,0
-1793905141729,"37 km SSW of Masjed Soleymān, Iran",4.4,mb,298,0
-1793901943367,"36 km E of Watari, Japan",4.6,mb,326,0
-1793899305305,Fiji region,6.1,mww,572,0
-1793897785875,"130 km NE of Thang, India",5.0,mb,385,0
-1793897085764,"218 km ENE of Levuka, Fiji",4.3,mb,284,0
-1793885827100,"3 km WNW of Orocovis, Puerto Rico",2.78,md,119,0
-1793885084170,south of the Fiji Islands,4.2,mb,271,0
-1793879186355,"112 km E of Chignik, Alaska",2.5,ml,96,0
-1793875847825,"110 km ESE of Akutan, Alaska",3.3,ml,168,0
-1793874673330,"6 km ENE of Calumet, Oklahoma",2.75,ml,116,0
-1793873373723,Sea of Okhotsk,4.8,mb,354,0
-1793872085032,"120 km SW of Nikolski, Alaska",3.4,ml,178,0
-1793871920748,"117 km SW of Nikolski, Alaska",3.5,ml,188,0
